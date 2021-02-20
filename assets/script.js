@@ -123,4 +123,3 @@ function writePassword() {
   passwordText.value = password;
 }
 
-writePassword()
